@@ -23,7 +23,7 @@ substitutions:
     #GCP Specific configuration. Please DON'T change anything
     _PROJECT: searce-playground
     _ZONE: asia-south1-a
-    _GKE_CLUSTER: learn-gcp-with-mahesh-gke-cluster
+    _GKE_CLUSTER: test-tag-cloudbuild
     
     #Repository Specific configuration. DevOps can change this settings
     _DEPLOYMENTNAME: hello-world-service
